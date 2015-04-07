@@ -2,7 +2,7 @@
 cls
 set D=%Date%
 cls
-echo enter your name
+echo enter your nickname/name
 SET /P name=[name]
 pause
 :room
