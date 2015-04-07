@@ -1,4 +1,5 @@
 # txt-chat
+[![GitHub version](https://badge.fury.io/gh/GGAALL98%2Ftxt-chat.svg)](http://badge.fury.io/gh/GGAALL98%2Ftxt-chat)
 # Summery
 Simple Batch/bash chat.
 
