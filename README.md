@@ -13,5 +13,17 @@ Its light-size and runs without any installation.
 
 # Running
 Windows:
-Run 
+
+Run chat.bat and room.bat, for cleaning the chat log run clean.bat
+
+
+OSX:
+
+Wine: same as windows, macports: same as Linux
+
+
+Linux:
+
+Wine: same as Windows, bash: run chat.sh and room.sh, for cleaning the chat log run clean.sh
+
 
