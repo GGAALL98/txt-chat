@@ -1,28 +1,23 @@
 # txt-chat
 [![GitHub version](https://badge.fury.io/gh/GGAALL98%2Ftxt-chat.svg)](http://badge.fury.io/gh/GGAALL98%2Ftxt-chat)
-# Summery
-Simple Batch/bash chat.
 
-Supports Windows, OSX and Linux (with wine).
+# Summary
+A simple batch/bash chat application.
 
-It isnt require internet connections.
+Supports Windows, OSX, and Linux (via Wine).
 
-Its save the chat log into .txt file with the time of any message and the name of the sender.
+No internet connection is required.
 
-Ther are 2 windows, one for the chat room(display the new messages) and one for the chat box(typing massage box).
-Its light-size and runs without any installation.
+It saves the chat log into a `.txt` file with timestamps and the sender's name.
+
+There are two windows: one for the chat room (which displays new messages) and one for the chat box (where you type your messages). It is lightweight and runs without installation.
 
 # Running
-Windows:
+### Windows:
+Run `GUI.bat`
 
-Run GUI.bat
-
-
-OSX:
-
-Wine: same as windows.
-
-Linux:
-
+### OSX:
 Wine: same as Windows.
 
+### Linux:
+Wine: same as Windows.
